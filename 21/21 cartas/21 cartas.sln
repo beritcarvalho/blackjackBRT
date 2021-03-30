@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 cartas", "21 cartas\21 cartas.csproj", "{277D41D5-FE6E-4971-B48D-19739B726F92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Black Jack (1.0)", "21 cartas\Black Jack (1.0).csproj", "{277D41D5-FE6E-4971-B48D-19739B726F92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

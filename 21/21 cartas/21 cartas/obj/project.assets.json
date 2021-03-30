@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\berit\\OneDrive\\Documentos\\GitHub\\blackjackBRT\\21\\21 cartas\\21 cartas\\21 cartas.csproj",
-      "projectName": "21 cartas",
-      "projectPath": "C:\\Users\\berit\\OneDrive\\Documentos\\GitHub\\blackjackBRT\\21\\21 cartas\\21 cartas\\21 cartas.csproj",
+      "projectUniqueName": "C:\\Users\\berit\\OneDrive\\Documentos\\GitHub\\blackjackBRT\\21\\21 cartas\\21 cartas\\Black Jack (1.0).csproj",
+      "projectName": "Black Jack (1.0)",
+      "projectPath": "C:\\Users\\berit\\OneDrive\\Documentos\\GitHub\\blackjackBRT\\21\\21 cartas\\21 cartas\\Black Jack (1.0).csproj",
       "packagesPath": "C:\\Users\\berit\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\berit\\OneDrive\\Documentos\\GitHub\\blackjackBRT\\21\\21 cartas\\21 cartas\\obj\\",
       "projectStyle": "PackageReference",

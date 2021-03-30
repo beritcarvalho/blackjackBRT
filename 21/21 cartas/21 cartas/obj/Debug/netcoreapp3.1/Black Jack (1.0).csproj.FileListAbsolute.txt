@@ -1,0 +1,16 @@
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\Black Jack (1.0).exe
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\Black Jack (1.0).deps.json
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\Black Jack (1.0).runtimeconfig.json
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\Black Jack (1.0).runtimeconfig.dev.json
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\Black Jack (1.0).dll
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\Black Jack (1.0).pdb
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\Black Jack (1.0).csprojAssemblyReference.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\Black Jack (1.0).csproj.GenerateResource.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\Black Jack (1.0).AssemblyInfoInputs.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\Black Jack (1.0).AssemblyInfo.cs
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\Black Jack (1.0).csproj.CoreCompileInputs.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\Black Jack (1.0).dll
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\Black Jack (1.0).pdb
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\Black Jack (1.0).genruntimeconfig.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\_21_cartas.Form1.resources
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\_21_cartas.Properties.Resources.resources

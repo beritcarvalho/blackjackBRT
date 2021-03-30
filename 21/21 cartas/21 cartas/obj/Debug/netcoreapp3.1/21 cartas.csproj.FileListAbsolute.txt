@@ -1,0 +1,15 @@
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\21 cartas.exe
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\21 cartas.deps.json
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\21 cartas.runtimeconfig.json
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\21 cartas.runtimeconfig.dev.json
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\21 cartas.dll
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\bin\Debug\netcoreapp3.1\21 cartas.pdb
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\21 cartas.csprojAssemblyReference.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\_21_cartas.Form1.resources
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\21 cartas.csproj.GenerateResource.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\21 cartas.AssemblyInfoInputs.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\21 cartas.AssemblyInfo.cs
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\21 cartas.csproj.CoreCompileInputs.cache
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\21 cartas.dll
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\21 cartas.pdb
+C:\Users\berit\OneDrive\Documentos\GitHub\blackjackBRT\21\21 cartas\21 cartas\obj\Debug\netcoreapp3.1\21 cartas.genruntimeconfig.cache
