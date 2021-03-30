@@ -36,10 +36,13 @@ namespace _21_cartas
             this.pibFundoCarta = new System.Windows.Forms.PictureBox();
             this.pibCartas = new System.Windows.Forms.PictureBox();
             this.lblPontos = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblDescricaoPontos = new System.Windows.Forms.Label();
+            this.lblUltimaCarta = new System.Windows.Forms.Label();
+            this.pibUltimaCarta = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pibFundoCarta)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pibCartas)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pibUltimaCarta)).BeginInit();
             this.SuspendLayout();
             // 
             // btnJogar
@@ -107,26 +110,50 @@ namespace _21_cartas
             this.lblPontos.TabIndex = 4;
             this.lblPontos.Text = "0";
             // 
-            // label1
+            // lblDescricaoPontos
             // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Microsoft JhengHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.SystemColors.Control;
-            this.label1.Image = global::_21_cartas.Properties.Resources.fundo_verde;
-            this.label1.Location = new System.Drawing.Point(10, 258);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(92, 27);
-            this.label1.TabIndex = 5;
-            this.label1.Text = "Pontos: ";
+            this.lblDescricaoPontos.AutoSize = true;
+            this.lblDescricaoPontos.BackColor = System.Drawing.Color.Transparent;
+            this.lblDescricaoPontos.Font = new System.Drawing.Font("Microsoft JhengHei", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblDescricaoPontos.ForeColor = System.Drawing.SystemColors.Control;
+            this.lblDescricaoPontos.Image = global::_21_cartas.Properties.Resources.fundo_verde;
+            this.lblDescricaoPontos.Location = new System.Drawing.Point(10, 258);
+            this.lblDescricaoPontos.Name = "lblDescricaoPontos";
+            this.lblDescricaoPontos.Size = new System.Drawing.Size(92, 27);
+            this.lblDescricaoPontos.TabIndex = 5;
+            this.lblDescricaoPontos.Text = "Pontos: ";
+            // 
+            // lblUltimaCarta
+            // 
+            this.lblUltimaCarta.AutoSize = true;
+            this.lblUltimaCarta.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lblUltimaCarta.ForeColor = System.Drawing.Color.White;
+            this.lblUltimaCarta.Image = global::_21_cartas.Properties.Resources.fundo_verde;
+            this.lblUltimaCarta.Location = new System.Drawing.Point(10, 362);
+            this.lblUltimaCarta.Name = "lblUltimaCarta";
+            this.lblUltimaCarta.Size = new System.Drawing.Size(101, 21);
+            this.lblUltimaCarta.TabIndex = 6;
+            this.lblUltimaCarta.Text = "Última carta: ";
+            // 
+            // pibUltimaCarta
+            // 
+            this.pibUltimaCarta.Image = global::_21_cartas.Properties.Resources.fundo_carta_vazia;
+            this.pibUltimaCarta.Location = new System.Drawing.Point(117, 350);
+            this.pibUltimaCarta.Name = "pibUltimaCarta";
+            this.pibUltimaCarta.Size = new System.Drawing.Size(57, 76);
+            this.pibUltimaCarta.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pibUltimaCarta.TabIndex = 7;
+            this.pibUltimaCarta.TabStop = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(236, 299);
+            this.ClientSize = new System.Drawing.Size(236, 438);
             this.Controls.Add(this.lblPontos);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.pibUltimaCarta);
+            this.Controls.Add(this.lblUltimaCarta);
+            this.Controls.Add(this.lblDescricaoPontos);
             this.Controls.Add(this.pibCartas);
             this.Controls.Add(this.pibFundoCarta);
             this.Controls.Add(this.btnReiniciar);
@@ -141,6 +168,7 @@ namespace _21_cartas
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pibFundoCarta)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pibCartas)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pibUltimaCarta)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -154,7 +182,9 @@ namespace _21_cartas
         private System.Windows.Forms.PictureBox pibFundoCarta;
         private System.Windows.Forms.PictureBox pibCartas;
         private System.Windows.Forms.Label lblPontos;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblDescricaoPontos;
+        private System.Windows.Forms.Label lblUltimaCarta;
+        private System.Windows.Forms.PictureBox pibUltimaCarta;
     }
 }
 
