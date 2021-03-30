@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Media;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -189,6 +190,8 @@ namespace _21_cartas
                     pibFundoCarta.Visible = false;
                     lblPontos.Location = new Point(8, 86);
                     lblDescricaoPontos.Visible = false;
+                    SoundPlayer simpleSound = new SoundPlayer(Properties.Resources.win);
+                    simpleSound.Play();
                 }
 
             }
@@ -201,6 +204,8 @@ namespace _21_cartas
                 pibFundoCarta.Visible = false;
                 lblPontos.Location = new Point(8,86);
                 lblDescricaoPontos.Visible = false;
+                SoundPlayer simpleSound = new SoundPlayer(Properties.Resources.lost);
+                simpleSound.Play();
 
             }
         }
